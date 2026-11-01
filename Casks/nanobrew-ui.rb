@@ -1,6 +1,6 @@
 cask "nanobrew-ui" do
-  version "1.0.0"
-  sha256 "6f1ef2b651b743993059d604ab0147e2d878534d9f5a678097e291c162d0dd2e"
+  version "1.0.1"
+  sha256 "d105ce622343bcca420e93a7abeea64d51854ea3be0ccf274c82ffbec6f962f2"
 
   url "https://github.com/Rex57/nanobrew-ui/releases/download/v#{version}/Nanobrew-UI-#{version}.zip"
 

@@ -12,4 +12,5 @@ Install a cask with nanobrew:
 nb install --cask Rex57/tap/nanobrew-ui
 ```
 
-Upgrade it with `nb upgrade --cask nanobrew-ui`.
+Upgrade it with `nb upgrade --cask Rex57/tap/nanobrew-ui`. nb records a tap cask under its full name, so use the
+full name; the short name answers "not installed".
